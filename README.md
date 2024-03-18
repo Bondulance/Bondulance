@@ -3,7 +3,12 @@
 </h1>
 
 <h3>
-    I am Bodhi, aka Bondulance, a full-stack web developer
+    I am
+
+    <a href="https://www.linkedin.com/in/bodhi-woll-745a31292/">
+        Bodhi
+    </a>
+    , aka Bondulance, a full-stack web developer 💻
 </h3>
 
 <h5>
