@@ -5,7 +5,7 @@
 
 
 
-
+<div id="yes">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1HVNHQmF6XqXS0xqpvfcJFY3cQIAQEB3XmJ_edOZdMQ&s"
     alt="astro" class="image" width="100" height="100"
     style="border-radius: 100%; object-fit: cover; border: 3px solid black;" />
@@ -47,3 +47,11 @@
 
 <img src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png" alt="astro" class="image" width="100"
     height="100" style="border-radius: 100%; object-fit: cover; border: 3px solid black;" />
+</div>
+
+<style>
+    #yes {
+        display:flex;
+        flex-direction:row;
+    }
+</style>
