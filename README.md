@@ -4,10 +4,7 @@
 
 <h3>
     I am
-
-    <a href="https://www.linkedin.com/in/bodhi-woll-745a31292/">
-        Bodhi
-    </a>
+Bodhi
     , aka Bondulance, a full-stack web developer 💻
 </h3>
 
