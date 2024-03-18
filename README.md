@@ -9,5 +9,5 @@
 <h5>
     Languages:
 </h5>
-<br />
+
 <p>HTML, CSS, JavaScript, TypeScript, React.js, Next.js, TailwindCSS, PHP, SQL, MongoDB, C, and Rust</p>
