@@ -12,4 +12,4 @@ Bodhi
     Languages:
 </h5>
 
-<p>HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Electron.js, TailwindCSS, PHP, SQL, MongoDB, C, and Rust</p>
+<p>HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Electron.js, Golang, HTMX, TailwindCSS, PHP, SQL, MongoDB, C, and Rust</p>
